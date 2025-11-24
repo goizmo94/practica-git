@@ -1,1 +1,2 @@
 mi nombre es gonzalo
+Aprendiendo Git
