@@ -1,2 +1,1 @@
-mi nombre es gonzalo
-Aprendiendo Git
+linea inicial del proyecto
